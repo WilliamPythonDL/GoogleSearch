@@ -10,8 +10,8 @@ from MainGoogle import MainGoogle
 
 ## 代理使用演示
 PROXIES = [{
-    'http': 'http://127.0.0.1:8118',
-    'https': 'http://127.0.0.1:8118'
+    'http': 'http://127.0.0.1:10086',
+    'https': 'http://127.0.0.1:10086'
 }]
 
 
